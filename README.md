@@ -2,5 +2,5 @@
 
 `Format: <github-id>`
 
-* shubhamdhama
-* shubhamdhama-again
+* deepakkumar
+* deepakkumar-again
